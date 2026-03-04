@@ -242,10 +242,10 @@ const TRANSLATIONS = {
 		forgotten_password: "Si vous <strong>ne vous souvenez plus</strong> de votre mot de passe, veuillez consulter votre carte de portefeuille ou contacter votre équipe d'étude."
 	  },
 	  'german': {
-		title: "Erfahren Sie, was Sie erwartet, wenn Sie sich für die Teilnahme an dieser Studie entscheiden",
+		title: "Erfahren Sie, was mit einer Teilnahme an dieser Studie verbunden ist",
 		label: "Bitte geben Sie Ihr Passwort ein",
 		button_enter: "Eingeben",
-		forgotten_password: "Wenn Sie sich <strong>nicht mehr erinnern</strong> können an Ihr Passwort, schauen Sie bitte auf Ihre Brieftaschenkarte oder kontaktieren Sie Ihr Studienteam."
+		forgotten_password: "Wenn Sie sich <strong>nicht</strong> an Ihr Passwort <strong>erinnern können</strong>, sehen Sie bitte auf Ihrer Patientenkarte nach oder wenden Sie sich an Ihr Studienteam."
 	  },
 	  'gujarati': {
 		title: "જો તમે આ અભ્યાસમાં ભાગ લેવાનું પસંદ કરો તો શું અપેક્ષા રાખવી તે શોધો",
@@ -422,7 +422,7 @@ const TRANSLATIONS = {
 		button_back: "Retour"
 	  },
 	  'german': {
-		title: "Bitte wählen Sie Ihre bevorzugte Sprache",
+		title: "Bitte wählen Sie Ihre bevorzugte Sprache aus.",
 		unavailable_language: "Die Support-Seite dieses Landes bietet derzeit keine Version in Ihrer gewählten Sprache an (Deutsch)",
 		search: "Suchen",
 		button_disabled: "Sprache auswählen",
