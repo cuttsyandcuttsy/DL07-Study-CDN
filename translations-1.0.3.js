@@ -59,8 +59,8 @@ const TRANSLATIONS = {
 		button_enabled: "Entrer"
 	  },
 	  'german': { // German
-		title: "Erkunden Sie Ihre DESTINY-Lung07-Supportvideos",
-		subtitle: "<p><strong>Wählen Sie</strong> Ihr Heimatland aus, um fortzufahren.</p>",
+		title: "Entdecken Sie unsere Support-Videos für DESTINY Lung07",
+		subtitle: "<p><strong>Wählen</strong> Sie Ihr Heimatland aus, um fortzufahren.</p>",
 		search: "Suchen",
 		button_disabled: "Wählen Sie Ihr Land aus",
 		button_enabled: "Eingeben"
