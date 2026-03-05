@@ -230,10 +230,10 @@ const TRANSLATIONS = {
 		forgotten_password: "如果您<strong>記不起</strong>您的密碼，請參閱您的錢包卡或聯繫您的研究團隊。"
 	  },
 	  'french': {
-		title: "Découvrez à quoi vous attendre si vous choisissez de participer à cette étude",
-		label: "Veuillez entrer votre mot de passe",
-		button_enter: "Entrer",
-		forgotten_password: "Si vous <strong>ne vous souvenez plus</strong> de votre mot de passe, veuillez consulter votre carte de portefeuille ou contacter votre équipe d'étude."
+		title: "Découvrez ce à quoi vous attendre si vous choisissez de participer à cette étude.",
+		label: "Veuillez saisir votre mot de passe",
+		button_enter: "Saisir",
+		forgotten_password: "Si vous avez <strong>oublié</strong> votre mot de passe, veuillez consulter votre carte de portefeuille ou contacter l’équipe de l’étude."
 	  },
 	  'french-ca': {
 		title: "Découvrez à quoi vous attendre si vous choisissez de participer à cette étude",
