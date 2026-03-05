@@ -254,7 +254,7 @@ const TRANSLATIONS = {
 		label: "Bitte geben Sie Ihr Passwort ein",
 		button_enter: "Eingeben",
 		forgotten_password: "Wenn Sie sich <strong>nicht</strong> an Ihr Passwort <strong>erinnern können</strong>, sehen Sie bitte auf Ihrer Patientenkarte nach oder wenden Sie sich an Ihr Studienteam.",
-		error: "Incorrect password. Please try again." 
+		error: "Falsches Passwort. Bitte erneut versuchen." 
 	  },
 	  'gujarati': {
 		title: "જો તમે આ અભ્યાસમાં ભાગ લેવાનું પસંદ કરો તો શું અપેક્ષા રાખવી તે શોધો",
