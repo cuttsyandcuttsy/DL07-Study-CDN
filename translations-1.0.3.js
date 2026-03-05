@@ -197,163 +197,190 @@ const TRANSLATIONS = {
 		title: "Find out what to expect if you choose to take part in this study",
 		label: "Please enter your password",
 		button_enter: "Enter",
-		forgotten_password: "If you <strong>can't remember</strong> your password, please refer to your wallet card or contact your study team."
+		forgotten_password: "If you <strong>can't remember</strong> your password, please refer to your wallet card or contact your study team.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'english-us': {
 		title: "Find out what to expect if you choose to take part in this study",
 		label: "Please enter your password",
 		button_enter: "Enter",
-		forgotten_password: "If you <strong>can't remember</strong> your password, please refer to your wallet card or contact your study team."
+		forgotten_password: "If you <strong>can't remember</strong> your password, please refer to your wallet card or contact your study team.",
+		error: "Incorrect password. Please try again."
 	  },
 	  'bengali': {
 		title: "আপনি এই গবেষণায় অংশ নিতে বেছে নিলে কী আশা করতে হবে তা জানুন",
 		label: "অনুগ্রহ করে আপনার পাসওয়ার্ড লিখুন",
 		button_enter: "প্রবেশ করুন",
-		forgotten_password: "যদি আপনি আপনার পাসওয়ার্ড <strong>মনে করতে না পারেন</strong>, অনুগ্রহ করে আপনার ওয়ালেট কার্ড দেখুন বা আপনার গবেষণা দলের সাথে যোগাযোগ করুন।"
+		forgotten_password: "যদি আপনি আপনার পাসওয়ার্ড <strong>মনে করতে না পারেন</strong>, অনুগ্রহ করে আপনার ওয়ালেট কার্ড দেখুন বা আপনার গবেষণা দলের সাথে যোগাযোগ করুন।",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'brazilian-portuguese': {
 		title: "Descubra o que esperar se você optar por participar deste estudo",
 		label: "Por favor, insira sua senha",
 		button_enter: "Entrar",
-		forgotten_password: "Se você <strong>não conseguir lembrar</strong> sua senha, consulte seu cartão de carteira ou entre em contato com sua equipe de estudo."
+		forgotten_password: "Se você <strong>não conseguir lembrar</strong> sua senha, consulte seu cartão de carteira ou entre em contato com sua equipe de estudo.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'chinese-hk': {
 		title: "了解如果您選擇參與本研究將會發生什麼",
 		label: "請輸入您的密碼",
 		button_enter: "進入",
-		forgotten_password: "如果您<strong>記不起</strong>您的密碼，請參閱您的錢包卡或聯繫您的研究團隊。"
+		forgotten_password: "如果您<strong>記不起</strong>您的密碼，請參閱您的錢包卡或聯繫您的研究團隊。",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'chinese-tw': {
 		title: "了解如果您選擇參與本研究將會發生什麼",
 		label: "請輸入您的密碼",
 		button_enter: "進入",
-		forgotten_password: "如果您<strong>記不起</strong>您的密碼，請參閱您的錢包卡或聯繫您的研究團隊。"
+		forgotten_password: "如果您<strong>記不起</strong>您的密碼，請參閱您的錢包卡或聯繫您的研究團隊。",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'french': {
 		title: "Découvrez ce à quoi vous attendre si vous choisissez de participer à cette étude.",
 		label: "Veuillez saisir votre mot de passe",
 		button_enter: "Saisir",
-		forgotten_password: "Si vous avez <strong>oublié</strong> votre mot de passe, veuillez consulter votre carte de portefeuille ou contacter l’équipe de l’étude."
+		forgotten_password: "Si vous avez <strong>oublié</strong> votre mot de passe, veuillez consulter votre carte de portefeuille ou contacter l’équipe de l’étude.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'french-ca': {
 		title: "Découvrez à quoi vous attendre si vous choisissez de participer à cette étude",
 		label: "Veuillez entrer votre mot de passe",
 		button_enter: "Entrer",
-		forgotten_password: "Si vous <strong>ne vous souvenez plus</strong> de votre mot de passe, veuillez consulter votre carte de portefeuille ou contacter votre équipe d'étude."
+		forgotten_password: "Si vous <strong>ne vous souvenez plus</strong> de votre mot de passe, veuillez consulter votre carte de portefeuille ou contacter votre équipe d'étude.",
+		error: "Incorrect password. Please try again."
 	  },
 	  'german': {
 		title: "Erfahren Sie, was mit einer Teilnahme an dieser Studie verbunden ist",
 		label: "Bitte geben Sie Ihr Passwort ein",
 		button_enter: "Eingeben",
-		forgotten_password: "Wenn Sie sich <strong>nicht</strong> an Ihr Passwort <strong>erinnern können</strong>, sehen Sie bitte auf Ihrer Patientenkarte nach oder wenden Sie sich an Ihr Studienteam."
+		forgotten_password: "Wenn Sie sich <strong>nicht</strong> an Ihr Passwort <strong>erinnern können</strong>, sehen Sie bitte auf Ihrer Patientenkarte nach oder wenden Sie sich an Ihr Studienteam.",
+		error: "Incorrect password. Please try again." 
 	  },
 	  'gujarati': {
 		title: "જો તમે આ અભ્યાસમાં ભાગ લેવાનું પસંદ કરો તો શું અપેક્ષા રાખવી તે શોધો",
 		label: "કૃપા કરીને તમારો પાસવર્ડ દાખલ કરો",
 		button_enter: "દાખલ કરો",
-		forgotten_password: "જો તમે તમારો પાસવર્ડ <strong>યાદ ન કરી શકો</strong>, તો કૃપા કરીને તમારા વૉલેટ કાર્ડનો સંદર્ભ લો અથવા તમારી અભ્યાસ ટીમનો સંપર્ક કરો."
+		forgotten_password: "જો તમે તમારો પાસવર્ડ <strong>યાદ ન કરી શકો</strong>, તો કૃપા કરીને તમારા વૉલેટ કાર્ડનો સંદર્ભ લો અથવા તમારી અભ્યાસ ટીમનો સંપર્ક કરો.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'hindi': {
 		title: "यदि आप इस अध्ययन में भाग लेना चुनते हैं तो क्या उम्मीद करें, यह जानें",
 		label: "कृपया अपना पासवर्ड दर्ज करें",
 		button_enter: "प्रवेश करें",
-		forgotten_password: "यदि आप अपना पासवर्ड <strong>याद नहीं कर सकते</strong>, तो कृपया अपने वॉलेट कार्ड को देखें या अपनी अध्ययन टीम से संपर्क करें।"
+		forgotten_password: "यदि आप अपना पासवर्ड <strong>याद नहीं कर सकते</strong>, तो कृपया अपने वॉलेट कार्ड को देखें या अपनी अध्ययन टीम से संपर्क करें।",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'hungarian': {
 		title: "Tudja meg, mire számíthat, ha úgy dönt, hogy részt vesz ebben a vizsgálatban",
 		label: "Kérjük, adja meg jelszavát",
 		button_enter: "Belépés",
-		forgotten_password: "Ha <strong>nem emlékszik</strong> a jelszavára, kérjük, nézze meg pénztárca kártyáját, vagy lépjen kapcsolatba vizsgálati csapatával."
+		forgotten_password: "Ha <strong>nem emlékszik</strong> a jelszavára, kérjük, nézze meg pénztárca kártyáját, vagy lépjen kapcsolatba vizsgálati csapatával.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'italian': {
 		title: "Scopri cosa aspettarti se scegli di prendere parte a questo studio",
 		label: "Inserisci la tua password",
 		button_enter: "Entra",
-		forgotten_password: "Se <strong>non ricordi</strong> la tua password, fai riferimento alla tua carta portafoglio o contatta il tuo team di studio."
+		forgotten_password: "Se <strong>non ricordi</strong> la tua password, fai riferimento alla tua carta portafoglio o contatta il tuo team di studio.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'japanese': {
 		title: "この研究に参加することを選択した場合に何が期待できるかを確認してください",
 		label: "パスワードを入力してください",
 		button_enter: "入る",
-		forgotten_password: "パスワードを<strong>思い出せない</strong>場合は、ウォレットカードを参照するか、研究チームにお問い合わせください。"
+		forgotten_password: "パスワードを<strong>思い出せない</strong>場合は、ウォレットカードを参照するか、研究チームにお問い合わせください。",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'kannada': {
 		title: "ನೀವು ಈ ಅಧ್ಯಯನದಲ್ಲಿ ಭಾಗವಹಿಸಲು ಆಯ್ಕೆ ಮಾಡಿದರೆ ಏನನ್ನು ನಿರೀಕ್ಷಿಸಬಹುದು ಎಂಬುದನ್ನು ತಿಳಿಯಿರಿ",
 		label: "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ",
 		button_enter: "ನಮೂದಿಸಿ",
-		forgotten_password: "ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ನೀವು <strong>ನೆನಪಿಸಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ</strong>, ದಯವಿಟ್ಟು ನಿಮ್ಮ ವಾಲೆಟ್ ಕಾರ್ಡ್ ಅನ್ನು ನೋಡಿ ಅಥವಾ ನಿಮ್ಮ ಅಧ್ಯಯನ ತಂಡವನ್ನು ಸಂಪರ್ಕಿಸಿ."
+		forgotten_password: "ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ನೀವು <strong>ನೆನಪಿಸಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ</strong>, ದಯವಿಟ್ಟು ನಿಮ್ಮ ವಾಲೆಟ್ ಕಾರ್ಡ್ ಅನ್ನು ನೋಡಿ ಅಥವಾ ನಿಮ್ಮ ಅಧ್ಯಯನ ತಂಡವನ್ನು ಸಂಪರ್ಕಿಸಿ.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'korean': {
 		title: "이 연구에 참여하기로 선택하면 무엇을 기대할 수 있는지 알아보세요",
 		label: "비밀번호를 입력하세요",
 		button_enter: "입력",
-		forgotten_password: "비밀번호를 <strong>기억할 수 없는</strong> 경우 지갑 카드를 참조하거나 연구팀에 문의하십시오."
+		forgotten_password: "비밀번호를 <strong>기억할 수 없는</strong> 경우 지갑 카드를 참조하거나 연구팀에 문의하십시오.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'malayalam': {
 		title: "ഈ പഠനത്തിൽ പങ്കെടുക്കാൻ തിരഞ്ഞെടുക്കുകയാണെങ്കിൽ എന്ത് പ്രതീക്ഷിക്കാം എന്ന് കണ്ടെത്തുക",
 		label: "ദയവായി നിങ്ങളുടെ പാസ്‌വേഡ് നൽകുക",
 		button_enter: "പ്രവേശിക്കുക",
-		forgotten_password: "നിങ്ങളുടെ പാസ്‌വേഡ് <strong>ഓർമ്മിക്കാൻ കഴിയുന്നില്ലെങ്കിൽ</strong>, ദയവായി നിങ്ങളുടെ വാലറ്റ് കാർഡ് പരിശോധിക്കുക അല്ലെങ്കിൽ നിങ്ങളുടെ പഠന ടീമിനെ ബന്ധപ്പെടുക."
+		forgotten_password: "നിങ്ങളുടെ പാസ്‌വേഡ് <strong>ഓർമ്മിക്കാൻ കഴിയുന്നില്ലെങ്കിൽ</strong>, ദയവായി നിങ്ങളുടെ വാലറ്റ് കാർഡ് പരിശോധിക്കുക അല്ലെങ്കിൽ നിങ്ങളുടെ പഠന ടീമിനെ ബന്ധപ്പെടുക.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'marathi': {
 		title: "तुम्ही या अभ्यासात भाग घेणे निवडल्यास काय अपेक्षा करावी ते शोधा",
 		label: "कृपया तुमचा पासवर्ड प्रविष्ट करा",
 		button_enter: "प्रवेश करा",
-		forgotten_password: "जर तुम्हाला तुमचा पासवर्ड <strong>आठवत नसेल</strong>, कृपया तुमचे वॉलेट कार्ड पहा किंवा तुमच्या अभ्यास टीमशी संपर्क साधा."
+		forgotten_password: "जर तुम्हाला तुमचा पासवर्ड <strong>आठवत नसेल</strong>, कृपया तुमचे वॉलेट कार्ड पहा किंवा तुमच्या अभ्यास टीमशी संपर्क साधा.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'polish': {
 		title: "Dowiedz się, czego możesz oczekiwać, jeśli zdecydujesz się wziąć udział w tym badaniu",
 		label: "Proszę wprowadzić hasło",
 		button_enter: "Wejdź",
-		forgotten_password: "Jeśli <strong>nie pamiętasz</strong> swojego hasła, zapoznaj się z kartą portfela lub skontaktuj się z zespołem badawczym."
+		forgotten_password: "Jeśli <strong>nie pamiętasz</strong> swojego hasła, zapoznaj się z kartą portfela lub skontaktuj się z zespołem badawczym.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'punjabi': {
 		title: "ਜੇ ਤੁਸੀਂ ਇਸ ਅਧਿਐਨ ਵਿੱਚ ਹਿੱਸਾ ਲੈਣ ਦੀ ਚੋਣ ਕਰਦੇ ਹੋ ਤਾਂ ਕੀ ਉਮੀਦ ਕਰਨੀ ਹੈ, ਪਤਾ ਕਰੋ",
 		label: "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
 		button_enter: "ਦਾਖਲ ਹੋਵੋ",
-		forgotten_password: "ਜੇ ਤੁਸੀਂ ਆਪਣਾ ਪਾਸਵਰਡ <strong>ਯਾਦ ਨਹੀਂ ਕਰ ਸਕਦੇ</strong>, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਵਾਲਟ ਕਾਰਡ ਨੂੰ ਦੇਖੋ ਜਾਂ ਆਪਣੀ ਅਧਿਐਨ ਟੀਮ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।"
+		forgotten_password: "ਜੇ ਤੁਸੀਂ ਆਪਣਾ ਪਾਸਵਰਡ <strong>ਯਾਦ ਨਹੀਂ ਕਰ ਸਕਦੇ</strong>, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਵਾਲਟ ਕਾਰਡ ਨੂੰ ਦੇਖੋ ਜਾਂ ਆਪਣੀ ਅਧਿਐਨ ਟੀਮ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'spanish': {
 		title: "Descubre qué esperar si eliges participar en este estudio",
 		label: "Por favor, ingresa tu contraseña",
 		button_enter: "Entrar",
-		forgotten_password: "Si <strong>no puedes recordar</strong> tu contraseña, consulta tu tarjeta de billetera o contacta a tu equipo de estudio."
+		forgotten_password: "Si <strong>no puedes recordar</strong> tu contraseña, consulta tu tarjeta de billetera o contacta a tu equipo de estudio.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'tamil': {
 		title: "இந்த ஆய்வில் பங்கேற்க நீங்கள் தேர்வுசெய்தால் என்ன எதிர்பார்க்கலாம் என்பதைக் கண்டறியவும்",
 		label: "உங்கள் கடவுச்சொல்லை உள்ளிடவும்",
 		button_enter: "உள்ளிடவும்",
-		forgotten_password: "உங்கள் கடவுச்சொல்லை நீங்கள் <strong>நினைவில் கொள்ள முடியவில்லை</strong> என்றால், உங்கள் வாலட் கார்டைப் பார்க்கவும் அல்லது உங்கள் ஆய்வுக் குழுவைத் தொடர்பு கொள்ளவும்."
+		forgotten_password: "உங்கள் கடவுச்சொல்லை நீங்கள் <strong>நினைவில் கொள்ள முடியவில்லை</strong> என்றால், உங்கள் வாலட் கார்டைப் பார்க்கவும் அல்லது உங்கள் ஆய்வுக் குழுவைத் தொடர்பு கொள்ளவும்.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'telugu': {
 		title: "మీరు ఈ అధ్యయనంలో పాల్గొనడానికి ఎంచుకుంటే ఏమి ఆశించవచ్చో తెలుసుకోండి",
 		label: "దయచేసి మీ పాస్‌వర్డ్‌ను నమోదు చేయండి",
 		button_enter: "నమోదు చేయండి",
-		forgotten_password: "మీరు మీ పాస్‌వర్డ్‌ను <strong>గుర్తు చేసుకోలేకపోతే</strong>, దయచేసి మీ వాలెట్ కార్డ్‌ను చూడండి లేదా మీ అధ్యయన బృందాన్ని సంప్రదించండి."
+		forgotten_password: "మీరు మీ పాస్‌వర్డ్‌ను <strong>గుర్తు చేసుకోలేకపోతే</strong>, దయచేసి మీ వాలెట్ కార్డ్‌ను చూడండి లేదా మీ అధ్యయన బృందాన్ని సంప్రదించండి.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'thai': {
 		title: "ค้นหาสิ่งที่คาดหวังได้หากคุณเลือกเข้าร่วมการศึกษานี้",
 		label: "กรุณาใส่รหัสผ่านของคุณ",
 		button_enter: "เข้าสู่ระบบ",
-		forgotten_password: "หากคุณ<strong>จำไม่ได้</strong>รหัสผ่านของคุณ โปรดดูบัตรกระเป๋าเงินของคุณหรือติดต่อทีมการศึกษาของคุณ"
+		forgotten_password: "หากคุณ<strong>จำไม่ได้</strong>รหัสผ่านของคุณ โปรดดูบัตรกระเป๋าเงินของคุณหรือติดต่อทีมการศึกษาของคุณ",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'turkish': {
 		title: "Bu çalışmaya katılmayı seçerseniz neler bekleyeceğinizi öğrenin",
 		label: "Lütfen şifrenizi girin",
 		button_enter: "Gir",
-		forgotten_password: "Şifrenizi <strong>hatırlayamıyorsanız</strong>, lütfen cüzdan kartınıza bakın veya çalışma ekibinizle iletişime geçin."
+		forgotten_password: "Şifrenizi <strong>hatırlayamıyorsanız</strong>, lütfen cüzdan kartınıza bakın veya çalışma ekibinizle iletişime geçin.",
+		error: "Incorrect password. Please try again."  
 	  },
 	  'urdu': {
 		title: "اگر آپ اس مطالعے میں حصہ لینے کا انتخاب کرتے ہیں تو کیا توقع کرنی ہے جانیں",
 		label: "براہ کرم اپنا پاس ورڈ درج کریں",
 		button_enter: "داخل ہوں",
-		forgotten_password: "اگر آپ اپنا پاس ورڈ <strong>یاد نہیں کر سکتے</strong>، تو براہ کرم اپنے والٹ کارڈ کو دیکھیں یا اپنی اسٹڈی ٹیم سے رابطہ کریں۔"
+		forgotten_password: "اگر آپ اپنا پاس ورڈ <strong>یاد نہیں کر سکتے</strong>، تو براہ کرم اپنے والٹ کارڈ کو دیکھیں یا اپنی اسٹڈی ٹیم سے رابطہ کریں۔",
+		error: "Incorrect password. Please try again."
 	  },
 	  'vietnamese': {
 		title: "Tìm hiểu những gì mong đợi nếu bạn chọn tham gia nghiên cứu này",
 		label: "Vui lòng nhập mật khẩu của bạn",
 		button_enter: "Nhập",
-		forgotten_password: "Nếu bạn <strong>không thể nhớ</strong> mật khẩu của mình, vui lòng tham khảo thẻ ví của bạn hoặc liên hệ với nhóm nghiên cứu của bạn."
+		forgotten_password: "Nếu bạn <strong>không thể nhớ</strong> mật khẩu của mình, vui lòng tham khảo thẻ ví của bạn hoặc liên hệ với nhóm nghiên cứu của bạn.",
+		error: "Incorrect password. Please try again."
 	  }
 	},
 	language_select: {
