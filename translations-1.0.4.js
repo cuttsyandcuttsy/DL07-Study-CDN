@@ -240,7 +240,7 @@ const TRANSLATIONS = {
 		label: "Veuillez saisir votre mot de passe",
 		button_enter: "Saisir",
 		forgotten_password: "Si vous avez <strong>oublié</strong> votre mot de passe, veuillez consulter votre carte de portefeuille ou contacter l’équipe de l’étude.",
-		error: "Incorrect password. Please try again."  
+		error: "Mot de passe incorrect. Veuillez réessayer."  
 	  },
 	  'french-ca': {
 		title: "Découvrez à quoi vous attendre si vous choisissez de participer à cette étude",
@@ -272,17 +272,17 @@ const TRANSLATIONS = {
 	  },
 	  'hungarian': {
 		title: "Tudja meg, mire számíthat, ha úgy dönt, hogy részt vesz ebben a vizsgálatban",
-		label: "Kérjük, adja meg jelszavát",
-		button_enter: "Belépés",
-		forgotten_password: "Ha <strong>nem emlékszik</strong> a jelszavára, kérjük, nézze meg pénztárca kártyáját, vagy lépjen kapcsolatba vizsgálati csapatával.",
-		error: "Incorrect password. Please try again."  
+		label: "Kérjük, adja meg a jelszavát",
+		button_enter: "Beírás",
+		forgotten_password: "Ha <strong>nem emlékszik</strong> a jelszavára, kérjük, nézze meg az emlékeztető kártyát, vagy vegye fel a kapcsolatot a vizsgálati csapattal.",
+		error: "Helytelen jelszó. Próbálja meg újra."  
 	  },
 	  'italian': {
-		title: "Scopri cosa aspettarti se scegli di prendere parte a questo studio",
-		label: "Inserisci la tua password",
-		button_enter: "Entra",
-		forgotten_password: "Se <strong>non ricordi</strong> la tua password, fai riferimento alla tua carta portafoglio o contatta il tuo team di studio.",
-		error: "Incorrect password. Please try again."  
+		title: "Scopri cosa aspettarsi dalla partecipazione allo studio",
+		label: "Inserisci la password",
+		button_enter: "Accedi",
+		forgotten_password: "Se <strong>non ricordi</strong> la password, controlla sulla tessera oppure contatta l'équipe medica.",
+		error: "Password errata. Riprova."  
 	  },
 	  'japanese': {
 		title: "この研究に参加することを選択した場合に何が期待できるかを確認してください",
@@ -320,11 +320,11 @@ const TRANSLATIONS = {
 		error: "Incorrect password. Please try again."  
 	  },
 	  'polish': {
-		title: "Dowiedz się, czego możesz oczekiwać, jeśli zdecydujesz się wziąć udział w tym badaniu",
-		label: "Proszę wprowadzić hasło",
+		title: "Dowiedz się, czego możesz się spodziewać, jeśli zdecydujesz się wziąć udział w tym badaniu.",
+		label: "Wprowadź hasło",
 		button_enter: "Wejdź",
 		forgotten_password: "Jeśli <strong>nie pamiętasz</strong> swojego hasła, zapoznaj się z kartą portfela lub skontaktuj się z zespołem badawczym.",
-		error: "Incorrect password. Please try again."  
+		error: "Nieprawidłowe hasło. Proszę spróbować ponownie."  
 	  },
 	  'punjabi': {
 		title: "ਜੇ ਤੁਸੀਂ ਇਸ ਅਧਿਐਨ ਵਿੱਚ ਹਿੱਸਾ ਲੈਣ ਦੀ ਚੋਣ ਕਰਦੇ ਹੋ ਤਾਂ ਕੀ ਉਮੀਦ ਕਰਨੀ ਹੈ, ਪਤਾ ਕਰੋ",
@@ -334,11 +334,11 @@ const TRANSLATIONS = {
 		error: "Incorrect password. Please try again."  
 	  },
 	  'spanish': {
-		title: "Descubre qué esperar si eliges participar en este estudio",
-		label: "Por favor, ingresa tu contraseña",
-		button_enter: "Entrar",
-		forgotten_password: "Si <strong>no puedes recordar</strong> tu contraseña, consulta tu tarjeta de billetera o contacta a tu equipo de estudio.",
-		error: "Incorrect password. Please try again."  
+		title: "Averigüe qué puede esperar si decide participar en este ensayo",
+		label: "Introduzca su contraseña",
+		button_enter: "Introducir",
+		forgotten_password: "Si <strong>no recuerda</strong> su contraseña, consulte su tarjeta de bolsillo o póngase en contacto con su equipo del ensayo.",
+		error: "Contraseña incorrecta. Inténtelo de nuevo."  
 	  },
 	  'tamil': {
 		title: "இந்த ஆய்வில் பங்கேற்க நீங்கள் தேர்வுசெய்தால் என்ன எதிர்பார்க்கலாம் என்பதைக் கண்டறியவும்",
