@@ -323,7 +323,7 @@ const TRANSLATIONS = {
 		title: "Dowiedz się, czego możesz się spodziewać, jeśli zdecydujesz się wziąć udział w tym badaniu.",
 		label: "Wprowadź hasło",
 		button_enter: "Wejdź",
-		forgotten_password: "Jeśli <strong>nie pamiętasz</strong> swojego hasła, zapoznaj się z kartą portfela lub skontaktuj się z zespołem badawczym.",
+		forgotten_password: "Jeśli <strong>nie pamiętasz</strong> hasła, znajdziesz je na karcie uczestnika badania. Możesz też skontaktować się z zespołem badawczym",
 		error: "Nieprawidłowe hasło. Proszę spróbować ponownie."  
 	  },
 	  'punjabi': {
