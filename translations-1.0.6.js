@@ -351,15 +351,15 @@ const TRANSLATIONS = {
 		title: "మీరు ఈ అధ్యయనంలో పాల్గొనడానికి ఎంచుకుంటే ఏమి ఆశించవచ్చో తెలుసుకోండి",
 		label: "దయచేసి మీ పాస్‌వర్డ్‌ను నమోదు చేయండి",
 		button_enter: "నమోదు చేయండి",
-		forgotten_password: "మీరు మీ పాస్‌వర్డ్‌ను <strong>గుర్తు చేసుకోలేకపోతే</strong>, దయచేసి మీ వాలెట్ కార్డ్‌ను చూడండి లేదా మీ అధ్యయన బృందాన్ని సంప్రదించండి.",
+		forgotten_password: "หากท่านจำรหัสผ่านของท่าน<strong>ไม่ได้</strong> โปรดดูบัตรประจำตัวสำหรับพกพาหรือติดต่อทีมวิจัย",
 		error: "Incorrect password. Please try again."  
 	  },
 	  'thai': {
-		title: "ค้นหาสิ่งที่คาดหวังได้หากคุณเลือกเข้าร่วมการศึกษานี้",
-		label: "กรุณาใส่รหัสผ่านของคุณ",
-		button_enter: "เข้าสู่ระบบ",
+		title: "ค้นหาว่าจะเกิดอะไรขึ้นหากท่านเลือกเข้าร่วมในการศึกษานี้",
+		label: "โปรดใส่รหัสผ่านของท่าน",
+		button_enter: "ป้อนข้อมูล",
 		forgotten_password: "หากคุณ<strong>จำไม่ได้</strong>รหัสผ่านของคุณ โปรดดูบัตรกระเป๋าเงินของคุณหรือติดต่อทีมการศึกษาของคุณ",
-		error: "Incorrect password. Please try again."  
+		error: "รหัสผ่านไม่ถูกต้อง โปรดลองอีกครั้ง"  
 	  },
 	  'turkish': {
 		title: "Bu çalışmada yer almayı tercih etmeniz durumunda neler bekleyebileceğinizi keşfedin.",
