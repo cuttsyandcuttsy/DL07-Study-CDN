@@ -362,7 +362,7 @@ const TRANSLATIONS = {
 		error: "รหัสผ่านไม่ถูกต้อง โปรดลองอีกครั้ง"  
 	  },
 	  'turkish': {
-		title: "Bu çalışmada yer almayı tercih etmeniz durumunda neler bekleyebileceğinizi keşfedin.",
+		title: "Bu çalışmada yer almayı tercih etmeniz durumunda neler bekleyebileceğinizi keşfedin",
 		label: "Lütfen şifrenizi girin",
 		button_enter: "Giriş",
 		forgotten_password: "Şifrenizi <strong>hatırlayamıyorsanız</strong>, lütfen cüzdan kartınıza başvurun veya çalışma ekibinizle iletişime geçin.",
