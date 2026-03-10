@@ -362,11 +362,11 @@ const TRANSLATIONS = {
 		error: "Incorrect password. Please try again."  
 	  },
 	  'turkish': {
-		title: "Bu çalışmaya katılmayı seçerseniz neler bekleyeceğinizi öğrenin",
+		title: "Bu çalışmada yer almayı tercih etmeniz durumunda neler bekleyebileceğinizi keşfedin.",
 		label: "Lütfen şifrenizi girin",
-		button_enter: "Gir",
-		forgotten_password: "Şifrenizi <strong>hatırlayamıyorsanız</strong>, lütfen cüzdan kartınıza bakın veya çalışma ekibinizle iletişime geçin.",
-		error: "Incorrect password. Please try again."  
+		button_enter: "Giriş",
+		forgotten_password: "Şifrenizi <strong>hatırlayamıyorsanız</strong>, lütfen cüzdan kartınıza başvurun veya çalışma ekibinizle iletişime geçin.",
+		error: "Yanlış şifre. Lütfen tekrar deneyin."  
 	  },
 	  'urdu': {
 		title: "اگر آپ اس مطالعے میں حصہ لینے کا انتخاب کرتے ہیں تو کیا توقع کرنی ہے جانیں",
