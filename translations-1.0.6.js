@@ -299,11 +299,11 @@ const TRANSLATIONS = {
 		error: "Incorrect password. Please try again."  
 	  },
 	  'korean': {
-		title: "이 연구에 참여하기로 선택하면 무엇을 기대할 수 있는지 알아보세요",
-		label: "비밀번호를 입력하세요",
+		title: "이 연구에 참여하는 경우 예상할 수 있는 사항에 대해 알아보세요",
+		label: "비밀번호를 입력해 주세요",
 		button_enter: "입력",
-		forgotten_password: "비밀번호를 <strong>기억할 수 없는</strong> 경우 지갑 카드를 참조하거나 연구팀에 문의하십시오.",
-		error: "Incorrect password. Please try again."  
+		forgotten_password: "비밀번호를 <strong>잊어버리신 경우</strong>, 소지용 카드를 확인하거나 스터디팀에 문의해 주세요.",
+		error: "비밀번호가 잘못되었습니다. 다시 시도해 주세요."  
 	  },
 	  'malayalam': {
 		title: "ഈ പഠനത്തിൽ പങ്കെടുക്കാൻ തിരഞ്ഞെടുക്കുകയാണെങ്കിൽ എന്ത് പ്രതീക്ഷിക്കാം എന്ന് കണ്ടെത്തുക",
