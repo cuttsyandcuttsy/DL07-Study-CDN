@@ -222,11 +222,11 @@ const TRANSLATIONS = {
 		error: "Senha incorreta. Tente novamente."  
 	  },
 	  'chinese-hk': {
-		title: "了解如果您選擇參與本研究將會發生什麼",
+		title: "了解參與這項研究的計劃內容",
 		label: "請輸入您的密碼",
-		button_enter: "進入",
-		forgotten_password: "如果您<strong>記不起</strong>您的密碼，請參閱您的錢包卡或聯繫您的研究團隊。",
-		error: "Incorrect password. Please try again."  
+		button_enter: "輸入",
+		forgotten_password: "若您<strong>忘記密碼</strong>，請查看您的研究資料卡，或者聯絡您所屬的研究團隊。",
+		error: "密碼錯誤。請再嘗試輸入。"  
 	  },
 	  'chinese-tw': {
 		title: "了解如果您選擇參與本研究將會發生什麼",
