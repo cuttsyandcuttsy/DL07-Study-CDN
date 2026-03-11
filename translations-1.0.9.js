@@ -417,7 +417,7 @@ const TRANSLATIONS = {
 		button_back: "Voltar"
 	  },
 	  'chinese-hk': {
-		title: "請選擇您的首選語言",
+		title: "請選擇您偏好使用的語言",
 		unavailable_language: "此國家/地區的支援頁面目前不提供您所選語言的版本 (中文 HK)",
 		search: "搜尋",
 		button_disabled: "選擇語言",
