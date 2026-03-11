@@ -215,11 +215,11 @@ const TRANSLATIONS = {
 		error: "Incorrect password. Please try again."  
 	  },
 	  'brazilian-portuguese': {
-		title: "Descubra o que esperar se você optar por participar deste estudo",
-		label: "Por favor, insira sua senha",
+		title: "Saiba o que esperar do estudo, se decidir participar",
+		label: "Insira sua senha",
 		button_enter: "Entrar",
-		forgotten_password: "Se você <strong>não conseguir lembrar</strong> sua senha, consulte seu cartão de carteira ou entre em contato com sua equipe de estudo.",
-		error: "Incorrect password. Please try again."  
+		forgotten_password: "Se você <strong>esqueceu</strong> a senha, consulte seu cartão de bolso ou contate a equipe do estudo.",
+		error: "Senha incorreta. Tente novamente."  
 	  },
 	  'chinese-hk': {
 		title: "了解如果您選擇參與本研究將會發生什麼",
@@ -236,7 +236,7 @@ const TRANSLATIONS = {
 		error: "Incorrect password. Please try again."  
 	  },
 	  'french': {
-		title: "Découvrez ce à quoi vous attendre si vous choisissez de participer à cette étude.",
+		title: "Découvrez à quoi vous attendre si vous choisissez de participer à cette étude",
 		label: "Veuillez saisir votre mot de passe",
 		button_enter: "Saisir",
 		forgotten_password: "Si vous avez <strong>oublié</strong> votre mot de passe, veuillez consulter votre carte de portefeuille ou contacter l’équipe de l’étude.",
@@ -244,10 +244,10 @@ const TRANSLATIONS = {
 	  },
 	  'french-ca': {
 		title: "Découvrez à quoi vous attendre si vous choisissez de participer à cette étude",
-		label: "Veuillez entrer votre mot de passe",
-		button_enter: "Entrer",
-		forgotten_password: "Si vous <strong>ne vous souvenez plus</strong> de votre mot de passe, veuillez consulter votre carte de portefeuille ou contacter votre équipe d'étude.",
-		error: "Incorrect password. Please try again."
+		label: "Veuillez saisir votre mot de passe",
+		button_enter: "Saisir",
+		forgotten_password: "Si vous <strong>ne vous souvenez pas</strong> de votre mot de passe, veuillez consulter votre carte de portefeuille ou contacter l’équipe de l’étude.",
+		error: "Mot de passe incorrect. Veuillez réessayer."
 	  },
 	  'german': {
 		title: "Erfahren Sie, was mit einer Teilnahme an dieser Studie verbunden ist",
