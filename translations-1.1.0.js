@@ -285,11 +285,11 @@ const TRANSLATIONS = {
 		error: "Password errata. Riprova."  
 	  },
 	  'japanese': {
-		title: "この研究に参加することを選択した場合に何が期待できるかを確認してください",
-		label: "パスワードを入力してください",
-		button_enter: "入る",
-		forgotten_password: "パスワードを<strong>思い出せない</strong>場合は、ウォレットカードを参照するか、研究チームにお問い合わせください。",
-		error: "Incorrect password. Please try again."  
+		title: "治験参加を決められた際に実施する内容をご確認ください",
+		label: "パスワードを入力してください。",
+		button_enter: "入力",
+		forgotten_password: "パスワードをお忘れの場合はウォレットカードをご確認いただくか、治験チームまでお問い合わせください。",
+		error: "パスワードが正しくありません。もう一度お試しください。"  
 	  },
 	  'kannada': {
 		title: "ನೀವು ಈ ಅಧ್ಯಯನದಲ್ಲಿ ಭಾಗವಹಿಸಲು ಆಯ್ಕೆ ಮಾಡಿದರೆ ಏನನ್ನು ನಿರೀಕ್ಷಿಸಬಹುದು ಎಂಬುದನ್ನು ತಿಳಿಯಿರಿ",
