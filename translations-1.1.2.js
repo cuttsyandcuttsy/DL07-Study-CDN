@@ -376,11 +376,11 @@ const TRANSLATIONS = {
 		error: "Incorrect password. Please try again."
 	  },
 	  'vietnamese': {
-		title: "Tìm hiểu những gì mong đợi nếu bạn chọn tham gia nghiên cứu này",
-		label: "Vui lòng nhập mật khẩu của bạn",
-		button_enter: "Nhập",
-		forgotten_password: "Nếu bạn <strong>không thể nhớ</strong> mật khẩu của mình, vui lòng tham khảo thẻ ví của bạn hoặc liên hệ với nhóm nghiên cứu của bạn.",
-		error: "Incorrect password. Please try again."
+		title: "Tìm hiểu về những gì sẽ xảy ra nếu bạn chọn tham gia nghiên cứu này",
+		label: "Vui lòng nhập mật khẩu của mình",
+		button_enter: "Nhập",
+		forgotten_password: "Nếu bạn <strong>không thể nhớ</strong> mật khẩu của mình, hãy xem lại thẻ thông tin hoặc liên hệ với nhóm nghiên cứu.",
+		error: "Mật khẩu không chính xác. Vui lòng thử lại."
 	  }
 	},
 	language_select: {
