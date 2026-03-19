@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', function() {
 	const languageSelectMiniList = document.querySelector('.language-select-mini-list');
 	const languageTitle = document.getElementById('languageTitle');
 	const languageListItems = document.querySelectorAll('.language-list-mini-item');
-
 	const currentPath = window.location.pathname;
 	const pathParts = currentPath.split('/').filter(part => part !== '');
 	const currentCountry = pathParts.length > 0 ? pathParts[0] : '';
@@ -17,7 +16,6 @@ document.addEventListener('DOMContentLoaded', function() {
 	let visibleLanguageCount = 0;
 	languageListItems.forEach(item => {
 		const availableCountries = item.getAttribute('data-language-country');
-
 		if (currentCountry && availableCountries && availableCountries.split(' ').includes(currentCountry)) {
 			item.style.display = '';
 			visibleLanguageCount++;
@@ -26,7 +24,6 @@ document.addEventListener('DOMContentLoaded', function() {
 		}
 	});
 
-
 	const calculatedHeight = (visibleLanguageCount - 1) * 2;
 	languageSelectMiniList.style.setProperty('--list-height', `${calculatedHeight}rem`);
 
@@ -34,22 +31,24 @@ document.addEventListener('DOMContentLoaded', function() {
 		languageSelectMini.classList.remove('cc-hidden');
 	}
 
-	const languageToUse = storedLanguage || currentLanguage;
+	const languageToUse = currentLanguage || storedLanguage;
 
 	if (languageToUse) {
+		// Sync storage to match the current URL language
+		if (currentLanguage && currentLanguage.toLowerCase() !== (storedLanguage || '').toLowerCase()) {
+			sessionStorage.setItem('selectedLanguage', currentLanguage.toLowerCase());
+		}
+
 		const matchingItem = Array.from(languageListItems).find(item => {
 			const itemLanguage = item.getAttribute('data-language-select');
-			return itemLanguage && itemLanguage.toLowerCase() === storedLanguage.toLowerCase();
+			return itemLanguage && itemLanguage.toLowerCase() === languageToUse.toLowerCase();
 		});
-
 		if (matchingItem) {
 			const languageText = matchingItem.querySelector('.language-text');
 			if (languageText) {
 				languageTitle.querySelector('div').textContent = languageText.textContent;
 			}
-
 			matchingItem.classList.add('cc-selected');
-
 			languageListItems.forEach(item => {
 				if (item !== matchingItem) {
 					item.classList.remove('cc-selected');
@@ -67,14 +66,10 @@ document.addEventListener('DOMContentLoaded', function() {
 	languageListItems.forEach(item => {
 		item.addEventListener('click', function(e) {
 			e.stopPropagation();
-
 			const selectedLanguage = this.getAttribute('data-language-select');
-
 			if (selectedLanguage) {
 				sessionStorage.setItem('selectedLanguage', selectedLanguage.toLowerCase());
-
 				languageSelectMiniList.classList.remove('cc-active');
-
 				if (currentCountry) {
 					window.location.href = '/' + currentCountry + '/' + selectedLanguage.toLowerCase();
 				}
